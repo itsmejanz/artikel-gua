@@ -9,7 +9,7 @@ export function FlipWordsDemo() {
       <div className="text-4xl  lg:text-5xl mx-auto font-bold text-neutral-600 dark:text-neutral-400">
         Build
         <FlipWords words={words} /> <br />
-        websites with Zacode
+        websites with Fauzan
       </div>
     </div>
   );
