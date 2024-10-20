@@ -9,7 +9,7 @@ export function LinkPreviewDemo() {
       <p className="text-neutral-500 dark:text-neutral-400 text-md md:text-3xl max-w-3xl mx-auto mb-10">
         Follow me on{" "}
         <LinkPreview
-          url="https://www.tiktok.com/ojaan.id"
+          url="https://www.tiktok.com/@ojaan.id"
           className="font-bold"
         >
           Tiktok
