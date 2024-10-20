@@ -9,7 +9,7 @@ export function LinkPreviewDemo() {
       <p className="text-neutral-500 dark:text-neutral-400 text-md md:text-3xl max-w-3xl mx-auto mb-10">
         Follow me on{" "}
         <LinkPreview
-          url="https://www.tiktok.com/@ahmadafriza25"
+          url="https://www.tiktok.com/ojaan.id"
           className="font-bold"
         >
           Tiktok
@@ -17,7 +17,7 @@ export function LinkPreviewDemo() {
         and{" "}
         <span>
           <LinkPreview
-            url="https://www.youtube.com/channel/UCGI119S5iGHHMgBXRCKVG8g"
+            url="https://www.youtube.com/channel/FauzanPerfect"
             className="font-bold text-red-600"
           >
             Youtube
