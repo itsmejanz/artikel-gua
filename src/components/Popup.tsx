@@ -20,7 +20,7 @@ const PopupCard = () => {
   };
 
   const handleBarcodeClick = () => {
-    window.open("https://saweria.co/ahmadafriza", "_blank"); // Ganti "nama_user" dengan username Saweria
+    window.open("https://pidas81.org", "_blank"); // Ganti "nama_user" dengan username Saweria
   };
 
   return (
@@ -36,15 +36,15 @@ const PopupCard = () => {
               className="bg-white p-6 rounded-lg shadow-lg max-w-md w-full text-center"
             >
               <h2 className="text-xl font-semibold mb-4 text-[#FF5C5C]">
-                Dukung Saya di Saweria
+                Welcome
               </h2>
               <p className="text-gray-700 mb-4">
-                Klik barcode di bawah atau scan untuk membeli domain di website ini agar bisa dipublikasikan ke semua user.
+                Ini adalah artikel materi untuk departemen CDMS .
               </p>
               {/* Gambar Barcode Saweria dengan efek hover */}
               <img
-                src="/saweria.png" // Ganti dengan URL gambar barcode yang valid
-                alt="Barcode Saweria"
+                src="https://e.top4top.io/p_3215e76ar1.png" // Ganti dengan URL gambar barcode yang valid
+                alt="Pidas"
                 className="cursor-pointer mb-4 mx-auto transform transition-transform hover:scale-110 hover:shadow-2xl"
                 onClick={handleBarcodeClick}
                 style={{ width: "200px", height: "200px" }} // Sesuaikan ukuran barcode
