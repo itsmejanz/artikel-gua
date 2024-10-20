@@ -70,7 +70,7 @@ const Blog: React.FC<BlogProps> = ({ initialPosts, categories }) => {
   return (
     <div className="p-8">
       <div className="text-center flex justify-between items-center mb-8">
-        <h1 className="text-2xl lg:text-3xl font-bold ">Source Code</h1>
+        <h1 className="text-2xl lg:text-3xl font-bold ">PIDAS81</h1>
         <Link
           className="bg-black text-white w-20 h-10 text-center flex items-center justify-center rounded-lg hover:bg-gray-700 hover:scale-105 transition-transform duration-100 ease-in-out shadow-lg hover:shadow-2xl"
           href="/"
