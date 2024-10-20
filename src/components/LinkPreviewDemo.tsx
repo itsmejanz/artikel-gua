@@ -17,7 +17,7 @@ export function LinkPreviewDemo() {
         and{" "}
         <span>
           <LinkPreview
-            url="https://www.youtube.com/channel/FauzanPerfect"
+            url="https://www.youtube.com/@FauzanPerfect"
             className="font-bold text-red-600"
           >
             Youtube
